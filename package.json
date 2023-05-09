@@ -1,0 +1,17 @@
+{
+  "name": "quest-04-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "cypress-downloadfile": "^1.2.3",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
